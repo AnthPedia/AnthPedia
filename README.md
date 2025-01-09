@@ -106,4 +106,3 @@ I love solving problems and bringing ideas to life through code. Every day is an
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
